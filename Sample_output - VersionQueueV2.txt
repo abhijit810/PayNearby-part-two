@@ -1,0 +1,22 @@
+choose mode:-   e : Enqueue     d : Dequeue     p : print       q : Quit
+Please enter your choice : e
+Please enter the number to insert : 6
+added value :  6
+choose mode:-   e : Enqueue     d : Dequeue     p : print       q : Quit
+Please enter your choice : e
+Please enter the number to insert : 2
+added value :  2
+choose mode:-   e : Enqueue     d : Dequeue     p : print       q : Quit
+Please enter your choice : e
+Please enter the number to insert : 5
+added value :  5
+choose mode:-   e : Enqueue     d : Dequeue     p : print       q : Quit
+Please enter your choice : d
+removed value :  6
+removed the value :  6
+choose mode:-   e : Enqueue     d : Dequeue     p : print       q : Quit
+Please enter your choice : p
+Please enter the version of the queue, leave empty for latest version : 4
+[2, 5]
+choose mode:-   e : Enqueue     d : Dequeue     p : print       q : Quit
+Please enter your choice : q
